@@ -3,4 +3,4 @@ sudo: false
 script: mvn clean install
 notifications:
  email:
- 	-sathish4489@gmail.com
+  -sathish4489@gmail.com
